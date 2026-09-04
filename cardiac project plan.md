@@ -3,6 +3,14 @@
 
 ---
 
+[MISA: Modality-Invariant and -Specific Representations for Multimodal Sentiment Analysis](https://dl.acm.org/doi/abs/10.1145/3394171.3413678)
+
+[Cross-Attention is Not Enough: Incongruity-Aware Dynamic Hierarchical Fusion for Multimodal Affect Recognition](https://arxiv.org/abs/2305.13583)
+
+[MTAG: Modal-Temporal Attention Graph for Unaligned Human Multimodal Language Sequences](https://arxiv.org/abs/2305.13583)
+
+[Factorized Multimodal Transformer for Multimodal Sequential Learning](https://arxiv.org/abs/1911.09826)
+
 ## 1. What These Multimodal Papers Actually Contributed
 
 ### MISA: Separating Shared and Modality-Private Information
