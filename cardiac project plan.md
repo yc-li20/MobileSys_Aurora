@@ -144,7 +144,7 @@ The model should distinguish among:
 Define an event-level incongruity score:
 
 $$
-r_{mn}(t) = d\!\left( z_m(t),\ \operatorname{Align}(z_n, t) \right)
+r_{mn}(t) = d!\left( z_m(t),\ \mathrm{Align}(z_n, t) \right)
 $$
 
 However, the goal should **not** simply be to minimize $r_{mn}(t)$. Instead, the model could learn task-dependent modality weights:
