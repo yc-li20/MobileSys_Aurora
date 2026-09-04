@@ -7,7 +7,7 @@
 
 [Cross-Attention is Not Enough: Incongruity-Aware Dynamic Hierarchical Fusion for Multimodal Affect Recognition](https://arxiv.org/abs/2305.13583)
 
-[MTAG: Modal-Temporal Attention Graph for Unaligned Human Multimodal Language Sequences](https://arxiv.org/abs/2305.13583)
+[MTAG: Modal-Temporal Attention Graph for Unaligned Human Multimodal Language Sequences](https://arxiv.org/abs/2010.11985)
 
 [Factorized Multimodal Transformer for Multimodal Sequential Learning](https://arxiv.org/abs/1911.09826)
 
